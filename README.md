@@ -10,3 +10,5 @@ We have three locations: Makerere, Nakawa and US Embassy. Each contains a refere
 The objective of this challenge is to develop a model that will take low cost device data and other supplementary data and transform it as accurately as possible to the reference value.
 
 This model will allow Airqo to ‘power up’ the accuracy of our measured results so they can be shared with the world as reference grade to ensure accurate insights are provided and decisions are made by citizens, government and industry that reflect the true air quality values.
+
+https://zindi.africa/competitions/airqo-low-cost-air-quality-monitor-calibration-challenge
